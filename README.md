@@ -51,5 +51,5 @@ A bunch of overlays for Idris2
 
 A template is available via
 ```
-nix flake init -t github:Perigord-Kleisli/Idris-nix
+nix flake init -t github:Kaisia-Estrel/Idris-nix
 ```
